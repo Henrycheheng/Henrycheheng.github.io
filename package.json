@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/febobo/web-interview.git"
+    "url": "git+https://github.com/Henrycheheng/interview.git"
   },
   "keywords": [
     "web",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/febobo/web-interview/issues"
+    "url": "https://github.com/Henrycheheng/interview/issues"
   },
-  "homepage": "https://github.com/febobo/web-interview#readme",
+  "homepage": "https://github.com/Henrycheheng/interview#readme",
   "devDependencies": {
     "vuepress": "^1.7.1"
   }

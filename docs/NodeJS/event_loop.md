@@ -5,7 +5,7 @@
 
 ## 一、是什么
 
-在[浏览器事件循环](https://github.com/febobo/web-interview/issues/73)中，我们了解到`javascript`在浏览器中的事件循环机制，其是根据`HTML5`定义的规范来实现
+之前我们了解到`javascript`在浏览器中的事件循环机制，其是根据`HTML5`定义的规范来实现
 
 而在`NodeJS`中，事件循环是基于`libuv`实现，`libuv`是一个多平台的专注于异步IO的库，如下图最右侧所示：
 
